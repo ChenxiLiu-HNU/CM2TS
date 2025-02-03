@@ -17,7 +17,9 @@ pip install tqdm
 
 ## Data Preprocess
 
-We download the numerical and text data into `numerical` and `textual` sub-folders under `data` folder.
+We provide preprocessed datasets, which you can access [here](https://drive.google.com/file/d/1NqFkzcIiQnQqaA5OyXJ4XhHM3KiV89Vb/view?usp=drive_link). 
+
+<!-- We download the numerical and text data into `numerical` and `textual` sub-folders under `data` folder. -->
 
 We combine the numerical and text data into a single csv file using `data_analysis/data_align.py`.
 
