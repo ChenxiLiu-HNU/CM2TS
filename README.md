@@ -17,7 +17,7 @@ pip install tqdm
 
 ## Data Preprocess
 
-We provide preprocessed datasets, which you can access [here](https://drive.google.com/file/d/1NqFkzcIiQnQqaA5OyXJ4XhHM3KiV89Vb/view?usp=drive_link). 
+We provide datasets, which you can access [here](https://drive.google.com/file/d/1NqFkzcIiQnQqaA5OyXJ4XhHM3KiV89Vb/view?usp=drive_link). 
 
 <!-- We download the numerical and text data into `numerical` and `textual` sub-folders under `data` folder. -->
 
