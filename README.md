@@ -1,4 +1,4 @@
-# Cross-Modality Time Series Forecasting
+# Cross-Modality Modeling for Time Series
 
 ## Dependencies
 
