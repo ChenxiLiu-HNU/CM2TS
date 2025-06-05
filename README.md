@@ -46,7 +46,7 @@ The naming convention is {frequency}_{dataset}_{fusion_method}.
 
 ## Further Reading
 
-[**Spatial-Temporal Large Language Model for Traffic Prediction**](https://github.com/ChenxiLiu-HNU/ST-LLM/blob/main/ST-LLM.pdf), in *IJCAI* 2025.
+[**Spatial-Temporal Large Language Model for Traffic Prediction**](https://github.com/ChenxiLiu-HNU/ST-LLM/blob/main/ST-LLM.pdf), in *MDM* 2025.
 [\[GitHub Repo\]](https://github.com/ChenxiLiu-HNU/ST-LLM)
 
 **Authors**: Chenxi Liu, Shaowen Zhou, Qianxiong Xu, Hao Miao, Cheng Long, Ziyue Li, Rui Zhao
