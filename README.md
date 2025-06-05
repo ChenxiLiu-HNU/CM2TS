@@ -32,8 +32,7 @@ We use the scripts in `scripts` folder to conduct the experiments.
 The naming convention is {frequency}_{dataset}_{fusion_method}.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact:
-shaowen310@outlook.com
+If you have any questions or suggestions, feel free to contact shaowen310@outlook.com and chenxi.liu@ntu.edu.sg.
 
 ## Acknowledgement
 
