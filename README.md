@@ -1,4 +1,4 @@
-# Cross-Modality Modeling for Time Series
+# Cross-Modality Modeling for Time Series Analytics
 
 ## Dependencies
 
