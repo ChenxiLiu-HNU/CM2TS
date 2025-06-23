@@ -2,6 +2,10 @@
 
 This repository contains the code for our IJCAI'25 [paper](https://arxiv.org/abs/2505.02583) "*Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era*", where we propose a taxonomy of cross-modal time series analytics and further investigate what kind of text, how, and when the text modality can help LLM for time series forecasting.
 
+<p align="center">
+  <img width="405" alt="image" src="https://github.com/user-attachments/assets/eba39e54-ffa3-483f-96b4-adbc7dca7500" />
+</p>
+
 ## Dependencies
 
 ```bash
