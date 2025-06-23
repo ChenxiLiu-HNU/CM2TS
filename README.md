@@ -108,7 +108,7 @@ The naming convention is {frequency}_{dataset}_{fusion_method}.
 ```
 
 ## Contact
-If you have any questions or suggestions, feel free to contact shaowen310@outlook.com and chenxi.liu@ntu.edu.sg.
+If you have any questions or suggestions, feel free to contact chenxi.liu@ntu.edu.sg and shaowen310@outlook.com.
 
 ## Acknowledgement
 
