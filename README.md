@@ -112,6 +112,4 @@ If you have any questions or suggestions, feel free to contact shaowen310@outloo
 
 ## Acknowledgement
 
-This library is constructed based on the following repos:
-
-[https://github.com/AdityaLab/MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib)
+This library is constructed based on the following repos: [https://github.com/AdityaLab/MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib)
